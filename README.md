@@ -1,2 +1,2 @@
 # Cryptic_b-lactamase_evolution
-Data Repository for the Article: Cryptic B-Lactamase Evolution Is Driven By Low B-Lactam Concentrations
+This is a repository for the data underlying the paper "Cryptic b-lactamase evolution is driven by low b-lactam concentrations" available at https://www.biorxiv.org/content/10.1101/2020.12.01.404343v1.
